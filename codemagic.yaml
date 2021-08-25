@@ -1,5 +1,99 @@
 workflows:
-  testing:
-    name: Testing wf
-  second:
-    name: Second wf
+  1:
+    name: 1 wf
+  2:
+    name: 2 wf
+  3:
+    name: 3 wf
+  4:
+    name: 4 wf
+  5:
+    name: 5 wf
+  6:
+    name: 6 wf
+  7:
+    name: 7 wf
+  8:
+    name: 8 wf
+  9:
+    name: 9 wf
+  10:
+    name: 10 wf
+  11:
+    name: 11 wf
+  12:
+    name: 12 wf
+  13:
+    name: 13 wf
+  14:
+    name: 14 wf
+  15:
+    name: 15 wf
+  16:
+    name: 16 wf
+  17:
+    name: 17 wf
+  18:
+    name: 18 wf
+  19:
+    name: 19 wf
+  20:
+    name: 20 wf
+  21:
+    name: 21 wf
+  22:
+    name: 22 wf
+  23:
+    name: 23 wf
+  24:
+    name: 24 wf
+  25:
+    name: 25 wf
+  26:
+    name: 26 wf
+  27:
+    name: 27 wf
+  28:
+    name: 28 wf
+  29:
+    name: 29 wf
+  20:
+    name: 30 wf
+  31:
+    name: 31 wf
+  32:
+    name: 32 wf
+  33:
+    name: 33 wf
+  34:
+    name: 34 wf
+  35:
+    name: 35 wf
+  36:
+    name: 36 wf
+  37:
+    name: 37 wf
+  38:
+    name: 38 wf
+  39:
+    name: 39 wf
+  40:
+    name: 40 wf
+  41:
+    name: 41 wf
+  42:
+    name: 42 wf
+  43:
+    name: 43 wf
+  44:
+    name: 44 wf
+  45:
+    name: 45 wf
+  46:
+    name: 46 wf
+  47:
+    name: 47 wf
+  48:
+    name: 48 wf
+  49:
+    name: 49 wf
